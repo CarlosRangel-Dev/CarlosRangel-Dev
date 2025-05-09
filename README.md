@@ -10,27 +10,16 @@ Sempre em constante evolução, estudando e aplicando novas tecnologias.
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,mysql,postgres,supabase,wordpress,ps,c)](https://skillicons.dev)
+
+
 
 ---
 
 ### 🌟 Projetos em Destaque
 
-- 🔗 [**Landing Page para Médicos**](https://seusite.com/medicos) — Design personalizado com foco em autoridade e conversão.
-- 🔗 [**Sistema de Agendamento com CRM**](https://seusite.com/agendamentos) — Integração inteligente com painel administrativo.
-- 🔗 [**Site para Corretores de Imóveis**](https://seusite.com/corretores) — Projeto com SEO avançado e geração de leads.
+- 🔗 [**Portfolio**](https://seusite.com/medicos) — Projeto pessoal e apresentação profissional.
+
 
 > Quer ver mais? Confira meus repositórios públicos!
 
