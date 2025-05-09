@@ -1,6 +1,5 @@
 <h2 align="left">🚀 Bem-vindo ao meu laboratório de ideias! Eu sou Carlos Rangel, e aqui o front ganha vida.</h2>
 
-<img align="right" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlkc2psN2J6dDh5aGFncHU5cWNhZmIwZTVrdnIyMjlrMngxenQ2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" />
 
 ### 👨‍💻 Sobre mim
 
